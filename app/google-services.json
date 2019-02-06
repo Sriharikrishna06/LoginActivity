@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63792240201",
+    "firebase_url": "https://loginactivity-cbcad.firebaseio.com",
+    "project_id": "loginactivity-cbcad",
+    "storage_bucket": "loginactivity-cbcad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63792240201:android:79bc3f6e87a79e4c",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63792240201-fmsiuuig834ngu01fe4abb0smjj558v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginactivity",
+            "certificate_hash": "6ff2cee6fb6cecbc4ba50d98eddd7ab2492bfc1e"
+          }
+        },
+        {
+          "client_id": "63792240201-7dq0crflfmst9chbnn4flkhfcdqrpf88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIdh2F7_sXxXcEMrXyCcE5Cy4P1RwY9XA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63792240201-7dq0crflfmst9chbnn4flkhfcdqrpf88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
